@@ -1,0 +1,16 @@
+# Django related files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# Local configuration
+local_settings.py
+db.sqlite3
+media/
+static/
