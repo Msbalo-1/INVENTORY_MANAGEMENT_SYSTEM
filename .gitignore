@@ -16,6 +16,15 @@ media/
 static/
 
 
+# Environments
+.env
+.ENV
+.venv
+.idea
+env/
+venv/
 ENV/
+env.bak/
+venv.bak/
 
 .idea/
