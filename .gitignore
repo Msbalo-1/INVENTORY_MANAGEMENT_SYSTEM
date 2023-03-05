@@ -16,6 +16,6 @@ media/
 static/
 
 
-ENV
+ENV/
 
-.idea
+.idea/
